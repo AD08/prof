@@ -1,16 +1,23 @@
+body{
+
+}
 .wrap{
 position: relative;
 text-align: center;
-background-color: #81C1EF;
+
+width: auto;
 }
 .location{
 	float: left;
 }
 header{
-	background-color: #57AEF1;
+
 	
 }
 .news_list{
+	
+}
+.news_list li{
 	
 }
 .main_item{
@@ -29,8 +36,8 @@ header{
 
 }
 .serch{
-	
-background-color: #339BE6;
+
+
 }
 .logo{
 
